@@ -1,8 +1,4 @@
 import {
-    mobile,
-    backend,
-    creator,
-    web,
     javascript,
     typescript,
     html,
@@ -33,25 +29,6 @@ import {
     {
       id: "contact",
       title: "Contact",
-    },
-  ];
-  
-  const services = [
-    {
-      title: "Web Developer",
-      icon: web,
-    },
-    {
-      title: "React Native Developer",
-      icon: mobile,
-    },
-    {
-      title: "Backend Developer",
-      icon: backend,
-    },
-    {
-      title: "Content Creator",
-      icon: creator,
     },
   ];
   
@@ -131,7 +108,8 @@ import {
         },
       ],
       image: carrental,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://github.com/SpoonMouse/rent-mobile",
+      live_link: ""
     },
     {
       name: "ExerciseBase",
@@ -152,7 +130,8 @@ import {
         },
       ],
       image: exercise,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://github.com/SpoonMouse/exercise-app",
+      live_link: ""
     },
     {
       name: "GPT-3 Landing Page",
@@ -173,8 +152,9 @@ import {
         },
       ],
       image: gpt,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://github.com/SpoonMouse/chatgpt3-website",
+      live_link: ""
     },
   ];
   
-  export { services, technologies, projects };
+  export { technologies, projects };
