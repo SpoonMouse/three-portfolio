@@ -109,7 +109,7 @@ import {
       ],
       image: carrental,
       source_code_link: "https://github.com/SpoonMouse/rent-mobile",
-      live_link: ""
+      live_link: "https://carhubdomtracy.netlify.app"
     },
     {
       name: "ExerciseBase",
@@ -131,7 +131,7 @@ import {
       ],
       image: exercise,
       source_code_link: "https://github.com/SpoonMouse/exercise-app",
-      live_link: ""
+      live_link: "https://exercisedomtracy.netlify.app"
     },
     {
       name: "GPT-3 Landing Page",
@@ -153,7 +153,7 @@ import {
       ],
       image: gpt,
       source_code_link: "https://github.com/SpoonMouse/chatgpt3-website",
-      live_link: ""
+      live_link: "https://gpt3domtracy.netlify.app"
     },
   ];
   
